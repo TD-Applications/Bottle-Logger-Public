@@ -1,6 +1,10 @@
 # Bottle-Logger-Public
 Custom mobile web page used to scan day care documents and render the bottle logs into a baby tracking app.
 
+<img width="603" height="1311" alt="image2" src="https://github.com/user-attachments/assets/c911765b-c181-4aa5-9c84-e051447e2cea" />
+<img width="603" height="1311" alt="image1" src="https://github.com/user-attachments/assets/43141ed7-c8e1-4db3-8798-7cd9da4c0882" />
+<img width="603" height="1311" alt="image0" src="https://github.com/user-attachments/assets/be8c8d29-6ef1-4022-84a5-4abdae625510" />
+
 # Bottle Log
 
 Take a photo of the daycare's daily bottle schedule sheet, review what it parsed, and log each bottle straight into [Huckleberry](https://huckleberrycare.com/) — no manual typing.
