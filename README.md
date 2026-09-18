@@ -1,11 +1,11 @@
 # Bottle-Logger-Public
 Custom mobile web page used to scan day care documents and render the bottle logs into a baby tracking app.
 
-<img width="300" height="652" alt="image0" src="https://github.com/user-attachments/assets/be8c8d29-6ef1-4022-84a5-4abdae625510" />
+<img width="150" height="326" alt="image0" src="https://github.com/user-attachments/assets/be8c8d29-6ef1-4022-84a5-4abdae625510" />
 
-<img width="300" height="652" alt="image1" src="https://github.com/user-attachments/assets/43141ed7-c8e1-4db3-8798-7cd9da4c0882" />
+<img width="150" height="326" alt="image1" src="https://github.com/user-attachments/assets/43141ed7-c8e1-4db3-8798-7cd9da4c0882" />
 
-<img width="300" height="652" alt="image2" src="https://github.com/user-attachments/assets/c911765b-c181-4aa5-9c84-e051447e2cea" />
+<img width="150" height="326" alt="image2" src="https://github.com/user-attachments/assets/c911765b-c181-4aa5-9c84-e051447e2cea" />
 
 
 
